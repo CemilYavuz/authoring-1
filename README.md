@@ -2,10 +2,10 @@
 
 ## Erstelle Kontrollkästchen mit den folgenden Aufgaben:
 
-- [X] [Externer Link]()
+- [X] [Externer Link]
 - [X] Interner Link
 - [X] Bilder
-- [X] [Emojis](### Füge ein Emoji hinzu.)
+- [X] Emojis
 - [X] Tabellen
 
 ## Füge einen externen Link zur Github-Dokumentation hinzu
