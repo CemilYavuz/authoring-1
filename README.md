@@ -8,23 +8,34 @@
 - [X] Emojis
 - [X] Tabellen
 
-## Füge einen externen Link zur Github-Dokumentation hinzu
+## Externer Link
+
+Füge einen externen Link zur Github-Dokumentation hinzu
+
 [Link zur Github-Dokumentation](https://help.github.com/en)
 
-### Füge einen Link zum Bilderordner hinzu.
+### Interner Link
+
+Füge einen Link zum Bilderordner hinzu.
 [Bilderordner](https://github.com/MrburnsDAOC/authoring/tree/main/Bilderordner)
 
-### Füge das Bild aus dem Bilderordner hinzu.
+### Bilder
+
+Füge das Bild aus dem Bilderordner hinzu.
 
 ![git-image](/Bilderordner/640px-Git-logo.svg.png)
 
-### Füge ein Emoji hinzu.
+### Emojis
+
+Füge ein Emoji hinzu.
 
 📖  
 📗  
 🦊
 
-### Füge eine Tabelle mit zwei Überschriften, Namen und Klasse, hinzu. Fülle mindestens zwei Zeilen der Tabelle aus.
+### Tabellen
+
+Füge eine Tabelle mit zwei Überschriften, Namen und Klasse, hinzu. Fülle mindestens zwei Zeilen der Tabelle aus.
 
 | Name | Klasse |
 | ---- | ---- |
