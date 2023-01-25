@@ -12,9 +12,10 @@
 [Link zur Github-Dokumentation](https://help.github.com/en)
 
 ### Füge einen Link zum Bilderordner hinzu.
-[Bilderordner]()
+[Bilderordner](https://github.com/MrburnsDAOC/authoring/tree/main/Bilderordner)
 
 ### Füge das Bild aus dem Bilderordner hinzu.
+![Bild]()
 
 ### Füge ein Emoji hinzu.
 
