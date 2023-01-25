@@ -7,7 +7,7 @@
 - [X] [Interner Link](#interner-link)
 - [X] [Bilder](#bilder)
 - [X] [Emojis](#emojis)
-- [X] [Tabellen](#tabellen)
+- [X] [Tabellen](#tabellen)  
 
 
 
@@ -15,14 +15,14 @@
 
 Füge einen externen Link zur Github-Dokumentation hinzu
 
-[Link zur Github-Dokumentation](https://help.github.com/en)
+[Link zur Github-Dokumentation](https://help.github.com/en)  
 
 
 
 ### Interner Link
 
 Füge einen Link zum Bilderordner hinzu.
-[Bilderordner](https://github.com/MrburnsDAOC/authoring/tree/main/Bilderordner)
+[Bilderordner](https://github.com/MrburnsDAOC/authoring/tree/main/Bilderordner)  
 
 
 
@@ -30,7 +30,7 @@ Füge einen Link zum Bilderordner hinzu.
 
 Füge das Bild aus dem Bilderordner hinzu.
 
-![git-image](/Bilderordner/640px-Git-logo.svg.png)
+![git-image](/Bilderordner/640px-Git-logo.svg.png)  
 
 
 
@@ -40,7 +40,7 @@ Füge ein Emoji hinzu.
 
 📖  
 📗  
-🦊
+🦊  
 
 
 
@@ -51,4 +51,4 @@ Füge eine Tabelle mit zwei Überschriften, Namen und Klasse, hinzu. Fülle mind
 | Name | Klasse |
 | ---- | ---- |
 | Dennis | 01 |
-| David | 01 |
+| David | 01 |  
