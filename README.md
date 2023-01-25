@@ -17,4 +17,13 @@
 
 ### Füge ein Emoji hinzu.
 
-:book:  
+📖  
+📗  
+🦊
+
+### Füge eine Tabelle mit zwei Überschriften, Namen und Klasse, hinzu. Fülle mindestens zwei Zeilen der Tabelle aus.
+
+| Name | Klasse |
+| ---- | ---- |
+| Dennis | 01 |
+| David | 01 |
