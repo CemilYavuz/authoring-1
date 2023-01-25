@@ -12,6 +12,7 @@
 [Link zur Github-Dokumentation](https://help.github.com/en)
 
 ### Füge einen Link zum Bilderordner hinzu.
+[Bilderordner]()
 
 ### Füge das Bild aus dem Bilderordner hinzu.
 
