@@ -16,7 +16,7 @@
 
 ### Füge das Bild aus dem Bilderordner hinzu.
 
-![git-image](https://github.com/MrburnsDAOC/authoring/tree/main/Bilderordner/git-image.png)
+![git-image](/Bilderordner/640px-Git-logo.svg.png)
 
 ### Füge ein Emoji hinzu.
 
